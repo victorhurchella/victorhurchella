@@ -7,8 +7,9 @@
 - 🔭 Atualmente trabalho na **Go Gaming**
 - 🌱 Meus estudos recentes são sobre **performance em React.JS e Next.JS**
 - 💬 Pergunte-me sobre **React.JS, MariaDB, Python, Lua e Git**
-- 📫 Como me encontrar: [@caraihugo](https://instagram.com/caraihugo) no instagram
+- 📫 Como me encontrar: [victor.urchella@outlook.com](victor.urchella@outlook.com): Envie-me um e-mail :)
 - ⚡ Fato engraçado: Grande fã do emoji :zap:
+[@caraihugo](https://instagram.com/caraihugo) no instagram
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
