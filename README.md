@@ -1,4 +1,4 @@
-<h2 align="center">👋 Boas Vindas ao meu perfil!.</h2>
+<h2 align="center">👋 Boas Vindas!</h2>
 <p align="center">
  • <a href="https://instagram.com/caraihugo">Instagram</a>
 </p>
