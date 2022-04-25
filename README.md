@@ -7,7 +7,7 @@
 - 🔭 Atualmente trabalho na **Go Gaming**
 - 🌱 Meus estudos recentes são sobre **performance em React.JS e Next.JS**
 - 💬 Pergunte-me sobre **React.JS, MariaDB, Python, Lua e Git**
-- 📫 Como me encontrar: [victor.urchella@outlook.com](victor.urchella@outlook.com): Envie-me um e-mail :)
+- 📫 Como me encontrar: Me envie um e-mail :) -> victor.urchella@outlook.com
 - ⚡ Fato engraçado: Grande fã do emoji :zap:
 [@caraihugo](https://instagram.com/caraihugo) no instagram
 
