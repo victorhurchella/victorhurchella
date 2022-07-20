@@ -14,7 +14,7 @@
 </div>
 
 ###
-<p align="left">- 👨‍💻 Estou desenvolvendo meu site e por enquanto meu repositorio se mantem aqui: https://github.com/victorurchella/<br><br>- 🔭 Atualmente trabalho na Go Gaming<br><br>- 📫 Para contato, me envie um e-mail em: victor.urchella@outlook.com<br><br>- Obrigado por visitar meu perfil. Siga-me para ver atualizações dos meus repositorios e dos meus projetos open source.</p>
+<p align="left">- 👨‍💻 Estou desenvolvendo meu site e por enquanto meu repositorio se mantem aqui: https://github.com/victorhurchella/<br><br>- 🔭 Atualmente trabalho na Go Gaming<br><br>- 📫 Para contato, me envie um e-mail em: victor.urchella@outlook.com<br><br>- Obrigado por visitar meu perfil. Siga-me para ver atualizações dos meus repositorios e dos meus projetos open source.</p>
 
 ###
 <div align="center">
